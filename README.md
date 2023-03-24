@@ -1,4 +1,4 @@
-# NBA-Dashboard
+# NBA Dashboard (Interactive Website)
 
 ## OVERVIEW: 
 - A comprehensive dashboard containing data analysis on the factors that affect NBA team wins.
