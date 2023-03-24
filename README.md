@@ -1,7 +1,7 @@
 # NBA Dashboard (Interactive Website)
 
 ## OVERVIEW: 
-- A comprehensive dashboard containing data analysis on the factors that affect NBA team wins.
+- A comprehensive dashboard (and interactive website) containing data analysis on the factors that affect NBA team wins.
 
 ## ABSTRACT:
 - This project analyzes the effects that certain “play-related” and “non-play-related” variables have on NBA team wins. 
